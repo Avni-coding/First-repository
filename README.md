@@ -1,5 +1,5 @@
 # First-repository
 This is my Git first repository
 <br>
-Author - Avni chandanshive
+Author - Avni (Avni's_coding)
 
